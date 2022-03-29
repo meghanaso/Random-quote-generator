@@ -1,0 +1,10 @@
+#quote-box {
+    background-color: gray;
+    border-radius: 10px;
+    border-color: black;
+    padding: 60px;
+    width: 350px;
+    margin: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
