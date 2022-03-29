@@ -8,3 +8,9 @@
     text-align: center;
     margin: 0 auto;
 }
+
+body{
+  display: flex;
+  height: 100vh;
+  align-items: center; 
+}
